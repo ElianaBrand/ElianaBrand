@@ -1,31 +1,52 @@
-# ¡Hola! Soy Eliana Brand
+# ¡Hola! Soy Eliana Brand 👩‍💻
 
 ¡Bienvenida/o a mi perfil de GitHub!
 
 Soy estudiante de *Ingeniería de Sistemas, actualmente en el **sexto semestre*. Me apasiona crear, aprender y explorar nuevas tecnologías que tengan un impacto positivo en las personas. Aquí encontrarás algunos de mis proyectos personales y avances en las áreas que más me interesan.
 
-## Sobre mí
+---
+
+## Sobre mí 💡
 
 Desde que comencé mi carrera, descubrí mi entusiasmo por:
 
-- *Programación móvil*: Me encanta desarrollar apps útiles y creativas. Actualmente trabajo en dos proyectos que combinan tecnología y bienestar personal.
-- *Análisis de datos*: Me interesa cómo los datos pueden revelar patrones, contar historias y ayudar en la toma de decisiones.
-- *Ciberseguridad*: Me fascina la idea de proteger los sistemas, la información y a los usuarios de amenazas digitales.
-- *Inteligencia Artificial*: Tengo curiosidad por sus aplicaciones prácticas y su potencial para transformar el mundo.
-
-## Proyectos en curso
-
-- *Lunatics*: Una app móvil en desarrollo para monitorear el estado de ánimo. Busca ayudar a los usuarios a identificar cómo se sienten a lo largo del tiempo y brindar sugerencias personalizadas mediante el uso de IA.
-
-- *Morpheus Guardian*: Proyecto enfocado en el monitoreo del sueño. Funciona como un diario que registra y analiza los hábitos de descanso, ayudando al usuario a identificar patrones y mejorar la calidad del sueño.
-
-## ¿Qué puedes encontrar en mi GitHub?
-
-- Código limpio, comentado y organizado
-- Proyectos con enfoque en mobile, datos, IA y bienestar
-- Iniciativas personales con visión a futuro
-- Un poco de mi aprendizaje constante en la carrera
+- 📱 *Programación móvil*: Me encanta desarrollar apps útiles y creativas.
+- 📊 *Análisis de datos*: Me interesa cómo los datos pueden revelar patrones, contar historias y ayudar en la toma de decisiones.
+- 🔐 *Ciberseguridad*: Me fascina la idea de proteger sistemas, información y usuarios frente a amenazas digitales.
+- 🤖 *Inteligencia Artificial*: Me atrae su capacidad de transformar industrias y resolver problemas reales.
 
 ---
 
-Si compartes alguna de mis pasiones o quieres colaborar, ¡no dudes en contactarme o seguir mis proyectos!
+## Proyectos en curso 🚀
+
+- *✨ Lunatics*: App móvil en desarrollo para monitorear el estado de ánimo. Ayuda a los usuarios a identificar cómo se sienten a lo largo del tiempo y brinda sugerencias personalizadas mediante IA.
+
+- *🌙 Morpheus Guardian*: Diario de monitoreo del sueño. Registra y analiza hábitos de descanso, ayudando al usuario a entender patrones de sueño y mejorar su calidad.
+
+---
+
+## Habilidades técnicas 🛠️
+
+- *Lenguajes*: Java, Kotlin, Python
+- *Herramientas*: Android Studio, Git, Firebase, Power BI
+- *Diseño y análisis*: SQL, Figma, Metodologías ágiles
+
+---
+
+## ¿Qué puedes encontrar en mi GitHub? 🔍
+
+- Proyectos enfocados en mobile, datos, IA y bienestar personal
+- Código limpio, comentado y organizado
+- Iniciativas personales con visión a futuro
+- Reflejo de mi aprendizaje y crecimiento como desarrolladora
+
+---
+
+## Contacto 📬
+
+- *Email*: elianabrand25@gmail.com  
+- *LinkedIn*: https://www.linkedin.com/in/siderbrand/
+
+---
+
+¡Gracias por visitar mi perfil! Si compartes mis intereses o quieres colaborar, ¡no dudes en escribirme!
