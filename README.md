@@ -2,7 +2,7 @@
 
 ¡Bienvenida/o a mi perfil de GitHub!
 
-Soy estudiante de *Ingeniería de Sistemas, actualmente en el **sexto semestre*. Me apasiona crear, aprender y explorar nuevas tecnologías que tengan un impacto positivo en las personas. Aquí encontrarás algunos de mis proyectos personales y avances en las áreas que más me interesan.
+Soy estudiante de Ingeniería de Sistemas, actualmente en el sexto semestre. Me apasiona crear, aprender y explorar nuevas tecnologías que tengan un impacto positivo en las personas. Aquí encontrarás algunos de mis proyectos personales y avances en las áreas que más me interesan.
 
 ---
 
